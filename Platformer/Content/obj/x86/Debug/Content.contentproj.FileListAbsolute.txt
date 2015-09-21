@@ -1,0 +1,3 @@
+C:\Users\Arakis00\Documents\Visual Studio 2010\Projects\Platformer_4_0\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Arakis00\Desktop\Platformer1.1\Platformer_4_0\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
+C:\Users\Arakis00\Desktop\Development\Platformer1.1\Platformer_4_0\Platformer\Content\obj\x86\Debug\Content.contentprojResolveAssemblyReference.cache
